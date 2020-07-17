@@ -5,3 +5,4 @@
 
 I am Harpreet Janday, an incoming first year Computer Science student. I enjoy solving problems and building random and fun projects!
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hjanday)](https://github.com/anuraghazra/github-readme-stats)
