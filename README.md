@@ -10,4 +10,4 @@
 
 <p>💻 Some of my hobbies are: Coding, Biking, Reading and Powerlifting.</p>
 
-<p> Feel free to contact me on Discord: waterfall#7782</p>
+
