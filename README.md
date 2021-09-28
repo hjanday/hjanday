@@ -10,7 +10,4 @@
 
 <p>💻 Some of my hobbies are: Coding, Biking, Reading and Powerlifting.</p>
 
-<p>Feel free to take a look at my current Github Stats below! Thanks for viewing my profile!</p>
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hjanday&show_icons=true&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hjanday&show_icons=true&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
+<p> Feel free to contact me on Discord: waterfall#7782</p>
