@@ -8,6 +8,6 @@
                 
 <p>💻 Currently, I am learning how to build API's and learning Back End Development </p>
 
-<p>💻 Some of my hobbies are: Coding, Biking, Reading and Powerlifting.</p>
+<p>💻 Some of my hobbies are: Coding, Biking, and Reading.</p>
 
 
