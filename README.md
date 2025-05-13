@@ -32,5 +32,6 @@ Fourth-year **Computer Science Student @ York University**. Love reading on **pe
     src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"
     alt="Java Badge"
   />
+  <img src="https://img.shields.io/badge/Javascript-f5ed56?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
 </div>
 
