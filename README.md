@@ -25,10 +25,6 @@ Fourth-year **Computer Science Student @ York University**. Love reading on **pe
     alt="C Badge"
   />
   <img
-    src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"
-    alt="C++ Badge"
-  />
-  <img
     src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"
     alt="Java Badge"
   />
