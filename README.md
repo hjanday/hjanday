@@ -15,9 +15,22 @@ Fourth-year **Computer Science Student @ York University**. Love reading on **pe
 
 ## Skills 
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/Python-27467a?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge%logo=openjdk&logoColor=white" alt="Java Badge"/>
+<div id="badges" class="flex flex-wrap justify-center gap-4 p-4">
+  <img
+    src="https://img.shields.io/badge/Python-27467a?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python Badge"
+  />
+  <img
+    src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c&logoColor=white"
+    alt="C Badge"
+  />
+  <img
+    src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"
+    alt="C++ Badge"
+  />
+  <img
+    src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="Java Badge"
+  />
 </div>
+
