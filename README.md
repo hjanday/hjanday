@@ -11,7 +11,7 @@
 
 ## About
 
-Fourth-year **Computer Science Student @ York University**. Love reading on **personal finance**, **self development** and listening to **house music**. Feel free to check out my <a href="https://www.linkedin.com/in/harpreet-janday/" target="_blank">LinkedIn</a>
+Software Engineer - YorkU Grad. Love reading on **personal finance**, **self development** and listening to **house music**. Feel free to check out my <a href="https://www.linkedin.com/in/harpreet-janday/" target="_blank">LinkedIn</a>
 
 ## Skills 
 
